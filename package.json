@@ -1,0 +1,14 @@
+{
+  "name": "language-dat",
+  "version": "0.0.0",
+  "description": "A grammar so that .dat files word wrap",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/atom/language-dat",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
