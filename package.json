@@ -1,6 +1,6 @@
 {
   "name": "language-dat",
-  "version": "0.0.0",
+  "version": "0.1.2",
   "description": "A grammar so that .dat files word wrap",
   "keywords": [
     "language",
